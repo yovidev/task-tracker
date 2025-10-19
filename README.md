@@ -77,3 +77,11 @@ Este proyecto es de uso libre para fines educativos y personales.
 
 Puedes ver el código fuente y contribuir en:  
 [https://github.com/yovidev/task-tracker](https://github.com/yovidev/task-tracker)
+
+---
+
+## 🌐 Página del Proyecto
+
+Este proyecto también está listado en [roadmap.sh](https://roadmap.sh/projects/task-tracker), una plataforma para descubrir y compartir proyectos prácticos de desarrollo.
+
+¡Visítalo, deja tu feedback y comparte tu versión del Task Tracker CLI!
