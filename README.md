@@ -72,3 +72,8 @@ Puedes probar cada comando desde la terminal. El archivo  se actualizará autom�
 
 ## 📄 Licencia
 Este proyecto es de uso libre para fines educativos y personales.
+
+## 🔗 Proyecto en GitHub
+
+Puedes ver el código fuente y contribuir en:  
+[https://github.com/yovidev/task-tracker](https://github.com/yovidev/task-tracker)
